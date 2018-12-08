@@ -44,8 +44,8 @@ let user = oauth.decrypt(encryptoData, session_key, iv);
 [travis]: https://img.shields.io/travis/XL/wxapp-oauth.svg
 [travis-u]: https://travis-ci.org/XL/wxapp-oauth
 
-[npm]: https://img.shields.io/npm/v/wxapp-oauth.svg
-[npm-u]: https://www.npmjs.com/package/wxapp-oauth
+[npm]: https://img.shields.io/npm/v/@xinglu/wxapp-oauth.svg
+[npm-u]: https://www.npmjs.com/package/@xinglu/wxapp-oauth
 
 [node]: https://img.shields.io/node/v/wxapp-oauth.svg
 [node-u]: https://nodejs.org/en/download/
