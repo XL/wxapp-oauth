@@ -1,0 +1,30 @@
+{
+  "name": "wxapp-oauth",
+  "version": "1.0.0",
+  "description": "wxapp oauth",
+  "main": "./lib",
+  "scripts": {
+    "test": "mocha",
+    "travis": "TESTER=travis mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xl/wxapp-oauth.git"
+  },
+  "keywords": [
+    "wxapp",
+    "oauth"
+  ],
+  "author": "XL Network",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xl/wxapp-oauth/issues"
+  },
+  "homepage": "https://github.com/xl/wxapp-oauth#readme",
+  "dependencies": {
+    "urllib": "^2.31.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
