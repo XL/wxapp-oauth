@@ -47,7 +47,7 @@ let user = oauth.decrypt(encryptoData, session_key, iv);
 [npm]: https://img.shields.io/npm/v/@xinglu/wxapp-oauth.svg
 [npm-u]: https://www.npmjs.com/package/@xinglu/wxapp-oauth
 
-[node]: https://img.shields.io/node/v/wxapp-oauth.svg
+[node]: https://img.shields.io/node/v/@xinglu/wxapp-oauth.svg
 [node-u]: https://nodejs.org/en/download/
 
 [commit]: https://img.shields.io/github/last-commit/XL/wxapp-oauth.svg
