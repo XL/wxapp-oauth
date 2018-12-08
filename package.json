@@ -1,5 +1,5 @@
 {
-  "name": "wxapp-oauth",
+  "name": "@xinglu/wxapp-oauth",
   "version": "1.0.0",
   "description": "wxapp oauth",
   "main": "./lib",
