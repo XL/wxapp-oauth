@@ -7,7 +7,7 @@
 
 ## 安装
 ```Bash
-npm i @gxinglu/wxapp-oauth
+npm i @xinglu/wxapp-oauth
 
 ## 实例化
 ```javascript
