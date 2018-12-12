@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git://github.com/xl/wxapp-oauth.git"
   },
+  "engines": {
+    "node": ">= 8.3.0"
+  },
   "keywords": [
     "wxapp",
     "oauth"
